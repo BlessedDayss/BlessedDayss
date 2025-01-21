@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [![Ciphera Password Manager]](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
+- 🔭 I’m currently working on [Ciphera Password Manager](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
 - 🌱 I’m currently learning C#
 
 ## My GitHub Stats
