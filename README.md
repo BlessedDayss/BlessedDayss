@@ -2,7 +2,13 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [![Ciphera Password Manager](https://linkmaker.itunes.apple.com/pl-pl/badge-lrg.svg?releaseDate=2024-01-01&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
+- 🔭 I’m currently working on 
+[![Ciphera Password Manager](https://linkmaker.itunes.apple.com/pl-pl/badge-lrg.svg?releaseDate=2024-01-01&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
+
+[![Ciphera Password Manager Icon](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/11/22/0b1122c7-3493-1234-5678-5a5b8c9f0d3b/AppIcon-0-5-1x_U007emarketing-0-5-1x-29d4f27a-0de4-4622-b0ff-529c8d58f20c.png/300x300bb.jpg)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
+
+
+[![Ciphera Password Manager](https://linkmaker.itunes.apple.com/pl-pl/badge-lrg.svg?releaseDate=2024-01-01&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
 - 🌱 I’m currently learning C#
 
 ## My GitHub Stats
