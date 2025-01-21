@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [![Download on the App Store](https://linkmaker.itunes.apple.com/pl-pl/badge-lrg.svg?releaseDate=2024-01-01&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
+- 🔭 I’m currently working on [![Ciphera Password Manager](https://linkmaker.itunes.apple.com/pl-pl/badge-lrg.svg?releaseDate=2024-01-01&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: [Email](mailto:o.gojayev2000@gmail.com)
 
