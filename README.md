@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Ciphera
+- 🔭 I’m currently working on [![Ciphera Password Manager App](https://apps.apple.com/pl/app/ciphera-password-manager/id6738832211)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: [Email](mailto:o.gojayev2000@gmail.com)
 
@@ -14,15 +14,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessedDayss&layout=compact&theme=radical)
 
-## Projects
-
-### Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedDayss&repo=Project-1&theme=radical)]([https://github.com/BlessedDayss/Project-1](https://github.com/BlessedDayss/SafePass))
-
-### Project 2
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedDayss&repo=Project-2&theme=radical)](https://github.com/BlessedDayss/Project-2)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/orkhan-gojaev/))
