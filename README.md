@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Ciphera
 - 🌱 I’m currently learning C#
-- 📫 How to reach me: [Your Email](mailto:o.gojayev2000@gmail.com)
+- 📫 How to reach me: [Email](mailto:o.gojayev2000@gmail.com)
 
 ## My GitHub Stats
 
@@ -17,7 +17,7 @@
 ## Projects
 
 ### Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedDayss&repo=Project-1&theme=radical)](https://github.com/BlessedDayss/Project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedDayss&repo=Project-1&theme=radical)]([https://github.com/BlessedDayss/Project-1](https://github.com/BlessedDayss/SafePass))
 
 ### Project 2
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedDayss&repo=Project-2&theme=radical)](https://github.com/BlessedDayss/Project-2)
