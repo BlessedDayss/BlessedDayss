@@ -1,9 +1,10 @@
-<h2 align="left" style="color:#F75C7E;">
-  Hi
+<h2 align="left">
+  <span style="color:#F75C7E;">Hi</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align: middle; margin-left: 5px;"/>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F75C7E&width=300&lines=My+name+is+Orkhan" alt="Typing My name is Orkhan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F75C7E&width=400&lines=My+name+is+Orkhan" alt="Typing My name is Orkhan" />
 </h2>
+
 
 ###
 
