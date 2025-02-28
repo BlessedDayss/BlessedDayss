@@ -8,13 +8,6 @@
 
 ###
 
-<a href="https://discord.gg/SQ3fFzTm" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo"/>
-</a>
-<a href="https://www.instagram.com/codebless/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-
 ![giphy](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 
 
