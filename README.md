@@ -122,6 +122,10 @@ const orkhan = {
 
 ## 💓 Commit Heartbeat
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=ORKHAN&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,20,24&animation=fadeIn&fontColor=F75C7E&desc=Coding%20with%20passion&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Orkhan Banner"/>
+
+<br>
+
 <img src="https://ssr-contributions-svg.vercel.app/_/BlessedDayss?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=34" width="100%" alt="3D Contribution Graph" />
 
 </div>
