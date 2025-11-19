@@ -122,7 +122,9 @@ const orkhan = {
 
 ## 💓 Commit Heartbeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=ORKHAN&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,14,20,24&animation=fadeIn&fontColor=F75C7E&desc=Coding%20with%20passion&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Orkhan Banner"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=O+R+K+H+A+N;💖+ORKHAN+💖;⚡+ORKHAN+⚡" alt="Orkhan Animated Name" />
+</a>
 
 <br>
 
