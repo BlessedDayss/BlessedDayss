@@ -117,6 +117,42 @@ const orkhan = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Commit Heartbeat Section -->
+<div align="center">
+
+## 💓 Commit Heartbeat
+
+<img src="https://ssr-contributions-svg.vercel.app/_/BlessedDayss?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=34" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+<!-- Activity Pulse -->
+<div align="center">
+
+### 🫀 Activity Pulse
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlessedDayss&custom_title=Commit%20Activity%20Graph&bg_color=0D1117&color=F75C7E&line=FF6B9D&point=FFFFFF&area=true&area_color=F75C7E&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<!-- Productivity Stats -->
+<div align="center">
+
+### ⚡ Productivity Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlessedDayss&theme=radical" width="100%" alt="Contribution Details"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlessedDayss&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlessedDayss&theme=radical" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlessedDayss&theme=radical" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BlessedDayss&theme=radical" />
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- Connect Section -->
 <div align="center">
 
